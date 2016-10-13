@@ -1,4 +1,5 @@
 Curriculum vitae
+
     - Personalia (persoonlijke gegevens)
         - Van Opstaele Tjörven
         - Eekloseweg 84 9910 Ursel
@@ -9,7 +10,7 @@ Curriculum vitae
         - 0496931422
         - tjorven.vanopstaele@hotmail.com
         - Facebook
-        
+
     - Opleiding(en)
         - TSO - Gezinstechnieken – Emmaus Aalter 2007 – 2008
         - TSO - Elektrische Installatie Technieken – Emmaus Aalter 2008 – 2013
