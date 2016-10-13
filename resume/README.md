@@ -19,10 +19,13 @@ Curriculum vitae
 
     - Werkervaring(en)
         - Geen
+
     - Cursussen en Workshops
         - Geen
+
     - Nevenactiviteit(en)
         - Medevoorzitter Jeugdhuis De Voute
+
     - Computerkennis
         - Software
             - Windows
@@ -36,11 +39,16 @@ Curriculum vitae
             - javascript 
             - php
         - Programmeertalen
+            - zie "Webtechnologie"
         - Favoriete websites en apps
+            - Facebook
+            - youtube            
+
     - Talenkennis
         - Nederlands: moedertaal, heel goed 
         - Frans: basis 
         - Engels: goed spreken en begrijpen
+
     - Overige        
         - Gamer
         - Festivalganger
